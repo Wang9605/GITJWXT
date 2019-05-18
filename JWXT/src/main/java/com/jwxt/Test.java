@@ -1,7 +1,7 @@
 package com.jwxt;
 
 public class Test {
-	public void sys() {
-		
+	public static void main(String[] args) {
+		System.out.println();
 	}
 }
