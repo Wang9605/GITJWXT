@@ -1,6 +1,6 @@
-package com.jwxt;
+package com.jwxt.common.exception;
 
-public class Test {
+public class exc {
 	public static void main(String[] args) {
 		System.out.println();
 	}
