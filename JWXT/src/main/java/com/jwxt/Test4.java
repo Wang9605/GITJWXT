@@ -1,5 +1,5 @@
 package com.jwxt;
 
-public class Test2 {
+public class Test4 {
 
 }
