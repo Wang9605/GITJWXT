@@ -3,9 +3,9 @@
   <groupId>com.company</groupId>
   <artifactId>JWXT</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
   <packaging>war</packaging>
-<dependencies>
+
+   <dependencies>
   	<dependency>
   		<groupId>mysql</groupId>
   		<artifactId>mysql-connector-java</artifactId>
@@ -78,4 +78,5 @@
   		<version>1.2.17</version>
   	</dependency>
   </dependencies>
+
 </project>
