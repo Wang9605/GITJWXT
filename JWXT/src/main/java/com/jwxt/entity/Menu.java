@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class Menu implements Serializable{
-	
+	//陈柏霖
 	private Integer menuId;
 	private String menuName;
 	private String menuUrl;
